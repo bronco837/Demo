@@ -1,3 +1,3 @@
-initial file 1 text in master branch
+initial file 1 text in master branch - additional change file 1
 
 another change to file 1
